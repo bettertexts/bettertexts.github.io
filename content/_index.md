@@ -1,5 +1,4 @@
-# BetterTexts  
-  
-BetterTexts is a free platform that provides reference and study materials. 
+BetterTexts is a platform that provides free reference and study materials . 
     
-Contributions open! Send a mail to <span class="homepage-email"></span>
+Contributions open!  
+Send us an email to <span class="homepage-email">`bettertexts[at]pm[dot]me`</span> for any contributions, feedbacks or suggestions. We'd love to hear from you!
