@@ -15,7 +15,7 @@ html {
 }
 
 /* Hide email from spambots */
-.homepage-email::after{ content:'betterbooks@pm.me'; }
+.homepage-email::after{ content:'bettertexts@pm.me'; }
 
 main ul, main ol {
     margin-top: 0.5rem;
