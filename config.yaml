@@ -1,7 +1,7 @@
 baseURL: https://bettertext.github.io
 languageCode: en-us
 defaultContentLanguage: en
-title: Better Texts
+title: BetterTexts
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
