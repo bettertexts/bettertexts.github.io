@@ -29,7 +29,7 @@ params:
   showThemeSwitcher: true
   defaultDarkTheme: false
   moveFooterToHeader: false
-  navTitleText: Better Texts
+  navTitleText: BetterTexts
   logoAlt: An alternative text description of the logo
   customCss:
     - css/custom_01.css
