@@ -1,0 +1,8 @@
+main ul, main ol {
+    margin-top: 0.5rem;
+}
+
+h1 {
+    padding: 1rem;
+    padding-left: 0;
+}

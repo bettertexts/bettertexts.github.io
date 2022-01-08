@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cbse-maths on Better Texts</title>
+    <link>https://example.com/tags/cbse-maths/</link>
+    <description>Recent content in cbse-maths on Better Texts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jan 2022 11:06:45 +0530</lastBuildDate><atom:link href="https://example.com/tags/cbse-maths/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surface Areas and Volumes</title>
+      <link>https://example.com/surface-areas-volumes/</link>
+      <pubDate>Sat, 08 Jan 2022 11:06:45 +0530</pubDate>
+      
+      <guid>https://example.com/surface-areas-volumes/</guid>
+      <description>Under construction // Wow, such empty!</description>
+    </item>
+    
+  </channel>
+</rss>

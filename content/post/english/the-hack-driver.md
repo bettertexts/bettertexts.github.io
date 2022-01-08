@@ -7,5 +7,3 @@ layout: posts
 ---
 
 Spoiler: The Hack Driver is the guy the lawyer was looking for
-
-{{% colors "#333333" %}}

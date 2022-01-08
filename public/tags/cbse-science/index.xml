@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cbse-science on Better Texts</title>
+    <link>https://example.com/tags/cbse-science/</link>
+    <description>Recent content in cbse-science on Better Texts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jan 2022 11:06:45 +0530</lastBuildDate><atom:link href="https://example.com/tags/cbse-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Environment</title>
+      <link>https://example.com/our-environment/</link>
+      <pubDate>Sat, 08 Jan 2022 11:06:45 +0530</pubDate>
+      
+      <guid>https://example.com/our-environment/</guid>
+      <description>1. Ecosystems An ecosystem is a complex system which consists of all the living organisms and the non-living constituents of an area.
+These may include:
+ Biotic components, comprising living organisms Abiotic components, including physical factors like  temperature rainfall wind soil    1.1 Examples of Ecosystems Take a pond for example. A variety of animals and plants (biotic components) can be found in and around a pond. These living beings are dependent on each other as well as the surrounding water, air and soil (abiotic components).</description>
+    </item>
+    
+  </channel>
+</rss>

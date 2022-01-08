@@ -17,9 +17,9 @@ imaging:
   quality: 99
 
 params:
-  description: Study materials that are easier to work with. Free for everyone.
-  homeMetaContent: Study materials that are easier to work with. Free for everyone.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
+  description: Study and reference materials that are easier to work with. Free for everyone.
+  homeMetaContent: Study and reference materials that are easier to work with. Free for everyone.
+  footer: <br /> (c) BetterTexts 2022. <br /> Content licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt) unless otherwise mentioned.  <br /> _Made with [Hugo](https://gohugo.io/). Theme by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)._
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
