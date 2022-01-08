@@ -4,6 +4,7 @@ tags: ["biology", "cbse", "cbse-science"]
 date: 2022-01-08T11:06:45+05:30
 toc: true
 note: "Based on the chapter \"Our Environment\" from Science Textbook for Class X, NCERT"
+author: nikhilmwarrier
 ---  
 ## 1. Ecosystems
 An _ecosystem_ is a complex system which consists of all the living organisms and the non-living constituents of an area.   

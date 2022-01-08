@@ -17,6 +17,8 @@
           <strong>{{ T "last_updated" }} </strong>{{ .Format $dateFormat }}
         {{ end }}
       {{ end }}
+      <br />
+      <strong>Author: </strong>{{ .Params.author }}
     </div>
 
     {{ with .Params.tags }}
