@@ -1,4 +1,4 @@
-baseURL: https://bettertext.github.io
+baseURL: https://bettertexts.github.io
 languageCode: en-us
 defaultContentLanguage: en
 title: BetterTexts
@@ -29,7 +29,7 @@ params:
   showThemeSwitcher: true
   defaultDarkTheme: false
   moveFooterToHeader: false
-  navTitleText: Better Texts
+  navTitleText: BetterTexts
   logoAlt: An alternative text description of the logo
   customCss:
     - css/custom_01.css
