@@ -1,0 +1,14 @@
+{{ $img := .Get "img" }}
+{{ $caption := .Get "caption" }}
+{{ $command := .Get "command" }}
+{{ $options := .Get "options" }}
+
+{{ $original := .Page.Resources.GetMatch "sun.jpg" }}
+{{ $new := $original }}
+
+<figure role="group" aria-describedby="caption-{{ $caption | md5 }}">
+    <img src="../assets/{{ $img }}">
+  <figcaption id="caption-{{ $caption | md5 }}">
+    {{ $caption | markdownify }}
+  </figcaption>
+</figure>
