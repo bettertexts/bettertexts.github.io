@@ -10,8 +10,8 @@ enableGitInfo: true
 taxonomies:
   tag: tags
 
-permalinks:
-  post: /:filename/
+# permalinks:
+#   post: /:section/:filename/
 
 imaging:
   quality: 99
