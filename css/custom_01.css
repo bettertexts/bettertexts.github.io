@@ -21,6 +21,24 @@ main ul, main ol {
     margin-top: 0.5rem;
 }
 
+
+.note .header strong {
+    margin-top: 0;
+    padding-left: 0.35rem;
+}
+
+.note .header {
+    display: flex;
+    align-items: center;
+}
+
+.note .header .sign {
+    height: 1.25rem;
+    width: 1.25rem;
+    position: relative;
+    bottom: 3px;
+}
+
 input#search {
     font-family: "Miriam Libre", sans-serif;
     padding-left: 0.8rem;
