@@ -20,8 +20,6 @@ img="dna.gif"
 caption="DNA <br /> <small>brian0918, Public domain</small>" 
 >}}
 
-(Public Domain)
-
 ## Types of Reproduction
 
 ###  1 Asexual Reproduction
@@ -77,8 +75,6 @@ caption="Spirogyra with its characteristic helically arranged chloroplasts <br /
 ####  1.3 Regeneration
 
 This kind of reproduction is seen in multicellular organisms like hydra and planaria. When they get cut into segments by some accidents, the segments grow into new individuals. Don&#39;t confuse this with fragmentation, in fragmentation, the organisms are not specialized into organs. In regeneration the organisms are specialized. This is not exactly reproduction, because this requires the organism to be cut or differentiated by an external force.
-
-**Suitable Pics**
 
 ####  1.4 Budding
 
