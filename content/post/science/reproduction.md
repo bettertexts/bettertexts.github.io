@@ -4,7 +4,7 @@ tags: ["biology", "cbse", "cbse-science"]
 date: 2022-01-10T13:53:07,152626462+05:30
 toc: true
 note: "Based on the chapter \"How do organisms reproduce?\" from Science Textbook for Class X, NCERT"
-author: Navaneeth Krishna V
+author: Navaneeth Krishna
 ---  
 
 # How do organisms reproduce?
@@ -119,7 +119,7 @@ Variation is the small tweaks that happen to the DNA of an organism during the p
 In some cases reproduction implants can occur through its vegetative parts, Vegetative propagation - but in vegetative propagation, only one parent is involved and the offspring is the exact copy of the parent. But in angiosperms (flowering plants) the reproductive parts i.e flowers (usually) can perform sexual reproduction.
 
 {{< figureCupper
-img="hydra-budding.png"
+img="flower-labelled.jpg"
 caption="Labelled image of a flower <br /> <small> [Image](https://commons.wikimedia.org/wiki/File:Ranunculus_glaberrimus_labelled.jpg) by Matt Lavinderivative work: Peter coxhead, CC BY-SA 2.0, via Wikimedia Commons</small>" 
 >}}
 
