@@ -5,9 +5,7 @@ date: 2022-01-10T13:53:07,152626462+05:30
 toc: true
 note: "Based on the chapter \"How do organisms reproduce?\" from Science Textbook for Class X, NCERT"
 author: Navaneeth Krishna
----  
-
-# How do organisms reproduce?
+---
 
 ## Introduction
 
