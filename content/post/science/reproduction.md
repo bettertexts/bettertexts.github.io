@@ -14,7 +14,7 @@ Reproduction is basically creating others of one&#39;s own kind. It&#39;s not re
 At the most basic level, reproduction involves the copying of one organism&#39;s DNA i.e DeoxyriboNucleic Acid, they are just some molecules that have instructions to build up an organism. The DNA molecules are embedded in structures called chromosomes which are present in the nucleus of the cell.
 
 {{< figureCupper
-img="dna.gif"
+img="post/science/assets/dna.gif"
 caption="DNA <br /> <small>brian0918, Public domain</small>" 
 >}}
 
@@ -41,7 +41,7 @@ In binary fission, the parent organism divides into two parts through mitosis.
 Eg:- Amoeba, Leishmania (_kala-azar_ causing pathogen)
 
 {{< figureCupper
-img="amoeba.jpg"
+img="post/science/assets/amoeba.jpg"
 caption="An Amoeba <br /> <small> [SmallRex](https://commons.wikimedia.org/wiki/File:Amoeba_proteus_with_many_pseudopodia.jpg), CC BY-SA 4.0, via Wikimedia Commons</small>" 
 >}}
 
@@ -52,7 +52,7 @@ In multiple fission, the parent cell divides into numerous daughter cells.
 Eg:- Plasmodium (This is the pathogen that causes malaria).
 
 {{< figureCupper
-img="plasmodium.jpg"
+img="post/science/assets/plasmodium.jpg"
 caption="Micrograph of a mature _Plasmodium Malariae_ <br /> <small> Pulic Domain</small>" 
 >}}
 
@@ -66,7 +66,7 @@ Eg:- Spirogyra
 Spirogyra (aka water silk) is an algae found in freshwater sources, they grow into long strands of cells which break apart by themselves or by collision with objects. The pieces that get separated grow into new individuals.
 
 {{< figureCupper
-img="spirogyra.jpg"
+img="post/science/assets/spirogyra.jpg"
 caption="Spirogyra with its characteristic helically arranged chloroplasts <br /> <small> Pulic Domain</small>" 
 >}}
 
@@ -79,7 +79,7 @@ This kind of reproduction is seen in multicellular organisms like hydra and plan
 When a hydra gets mature, small buds start to grow from it&#39;s main body, these buds grow and separate from the parent and develop into a new individual, this process is called budding. This can also be seen in unicellular yeast.
 
 {{< figureCupper
-img="hydra-budding.png"
+img="post/science/assets/hydra-budding.png"
 caption="A Hydra budding <br /> <small> [A.houghton19](https://commons.wikimedia.org/wiki/File:Hydra_Budding.svg), CC BY-SA 4.0, via Wikimedia Commons</small>" 
 >}}
 
@@ -117,7 +117,7 @@ Variation is the small tweaks that happen to the DNA of an organism during the p
 In some cases reproduction implants can occur through its vegetative parts, Vegetative propagation - but in vegetative propagation, only one parent is involved and the offspring is the exact copy of the parent. But in angiosperms (flowering plants) the reproductive parts i.e flowers (usually) can perform sexual reproduction.
 
 {{< figureCupper
-img="flower-labelled.jpg"
+img="post/science/assets/flower-labelled.jpg"
 caption="Labelled image of a flower <br /> <small> [Image](https://commons.wikimedia.org/wiki/File:Ranunculus_glaberrimus_labelled.jpg) by Matt Lavinderivative work: Peter coxhead, CC BY-SA 2.0, via Wikimedia Commons</small>" 
 >}}
 

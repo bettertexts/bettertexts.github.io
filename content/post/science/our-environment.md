@@ -56,7 +56,7 @@ Each step or level of a food chain forms a _trophic level_.
 - __4th trophic level:__ Tertiary Consumers or large carnivores (lions, tigers, sharks) 
 
 {{< figureCupper
-img="trophic-levels.png"
+img="post/science/assets/trophic-levels.png"
 caption="Trophic levels <br /> <small> Attribution: 'File:Ecological Pyramid.png' by Swiggity.Swag.YOLO.Bro is licensed under CC BY-SA 4.0 </small>" 
 >}}
 {{< note >}}
@@ -64,7 +64,7 @@ Only about 10% of the energy from an organism in one trophic level is transferre
 {{< /note >}}
 
 {{< figureCupper
-img="simplified-food-chain.png" 
+img="post/science/assets/simplified-food-chain.png" 
 caption="A (simplified) example of a food chain. <br /> In reality, food chains are way more complex than this, and they form 'food webs', because each organism is eaten by two or more organisms, which in turn are eaten by several other organisms. <br /> [Learn more about food webs here](https://en.wikipedia.org/wiki/Food_web) " 
 >}}
 

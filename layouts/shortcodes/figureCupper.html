@@ -7,7 +7,7 @@
 {{ $new := $original }}
 
 <figure role="group" aria-describedby="caption-{{ $caption | md5 }}">
-    <img src="../assets/{{ $img }}">
+    <img src="{{ $img | absURL }}">
   <figcaption id="caption-{{ $caption | md5 }}">
     {{ $caption | markdownify }}
   </figcaption>

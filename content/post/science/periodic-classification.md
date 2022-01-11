@@ -58,7 +58,7 @@ In his time only 56 elements were discovered. He arranged them starting with hyd
 This is what he came up with:
 
 {{< figureCupper
-img="newlands_periodiska_system_1866.png" 
+img="post/science/assets/newlands_periodiska_system_1866.png" 
 caption="Newland&#39;s Periodic Table from 1866 (Public Domain)"
 >}}
 
@@ -84,7 +84,7 @@ On this basis, he came up with this Periodic Law:
 > *__"Properties of elements are a periodic function of their atomic masses."__*
 
 {{< figureCupper
-img="mendelejevs_periodiska_system_1871.png" 
+img="post/science/assets/mendelejevs_periodiska_system_1871.png" 
 caption="Mendeléev's Periodic Table from 1871 (Public Domain) <br /> _The &#39;R&#39; above each group denotes his idea that any element from that group can replace that &#39;R&#39; to make a molecule. He called the horizontal rows __periods__ and the vertical columns __groups__._" 
 >}}
 
@@ -115,7 +115,7 @@ In 1913 Henry Moseley decided to arrange the elements according to atomic number
 > *__"Properties of elements are a periodic function of their atomic number."__*
 
 {{< figureCupper
-img="modern-periodic-table-small.png" 
+img="post/science/assets/modern-periodic-table-small.png" 
 caption="Modern Periodic Table (Public Domain) [(View Large)](../assets/modern-periodic-table.png)" 
 >}}
 
