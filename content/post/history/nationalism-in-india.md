@@ -11,9 +11,5 @@ author: nikhilmwarrier
 __THIS ARTICLE IS INCOMPLETE__
 {{< /warning >}}
 
-{{< note >}}
-__THIS ARTICLE IS INCOMPLETE__
-{{< /note >}}
-
 ## Introduction  
 In India as well as many other ex-colonies, the growth of modern nationalism is intimately connected with the anti-colonial movement.
