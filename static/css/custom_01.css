@@ -62,3 +62,9 @@ h5 {
 a {
     -webkit-tap-highlight-color: rgba(30, 30, 30, 0.3);
 } 
+
+@media print {
+    div[class$="-container"] > a::after{
+        display: none;
+    }
+}
