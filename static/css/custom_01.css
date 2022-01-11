@@ -21,18 +21,17 @@ main ul, main ol {
     margin-top: 0.5rem;
 }
 
-
-.note .header strong {
+.note .header strong, .warning .header strong {
     margin-top: 0;
     padding-left: 0.35rem;
 }
 
-.note .header {
+.note .header, .warning .header {
     display: flex;
     align-items: center;
 }
 
-.note .header .sign {
+.note .header .sign, .warning .header .sign {
     height: 1.25rem;
     width: 1.25rem;
     position: relative;
