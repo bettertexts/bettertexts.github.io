@@ -78,3 +78,47 @@ Local leaders were picked up from Amritsar, and Mahatma Gandhi was barred from e
   
 Seeing all this violence and brutality, Gandhiji called off the  movement.
 
+#### Khilafat  
+- The Ottoman Turkey was defeated in the First World War.  
+- There were rumours that a harsh treaty was going to be imposed on the Ottoman emperor, who was also the spiritual head of the Islamic world (Khalifa).  
+- Mahatma Gandhi wanted to unite Hindus and Muslims, so decided to take up the Khilafat issue.  
+- A Khilafat Committee was formed in Bombay in March 1919.  
+- The Khalifat movement was lead by the brothers Muhammad Ali and Shaukat Ali.  
+- Gandhiji convinced the Congress to start a non-cooperation movement in support of both Khilafat and Swaraj in the **Calcutta Session of 1920**. 
+  
+### Why Non-Cooperation?  
+In Gandhiji's book _Hind Swaraj (1909)_, he declred that British Raj was established because of Indian cooperation and it survives because if Indian cooperation. If refuse to cooperate, British Raj will collapse within a year.  
+  
+#### How could Non-Cooperation become a movement?  
+Gandhiji proposed that the movement will unfold in the following stages:  
+1. Surrender of titles given by the Govt, and a boycott of the army, civil services, courts, legislative councils, the police, schools and foreign goods.  
+2. If govt will launch a repression (which they obviously will do), a full-on civil disobedience campaign will be launched and the British laws would be broken.  
+  
+#### Gathering support for the movement  
+- Shaukat Ali and Mahatma Gandhi travelled extensively throughout 1920 gathering popular support for the movement.  
+- The Congress did not initially want to adopt the movement, because:  
+	1. They wanted to participate in the November 1920 Council Elections.  
+	2. They feared the movement might cause mass violence.  
+  
+- Between September and December 1920, there was an intense tussle within the Congress.  
+- The Congress's **December 1920 Session in Nagpur** worked out a compromise and adopted the Non-Cooperation Movement.  
+  
+## Differing Stands within the movement  
+The Non-Cooperation Movement and the term Dwaraj meant different things for different people. A lot of social groups participated in this movement, though each had their own interpretations and aspirations.  
+  
+### 2.1 The Movement in the Towns  
+#### Participation of the middle-class in the cities  
+- Thousands of studenst left govt-controlled schools and colleges.  
+- Teachers and headmasters resigned.  
+- Lawyers gave up their practices.  
+- The council elections were boycotted everywhere except in Madras (because the Justice Party—which constituted mostly of non-Brahmins—felt that entering the council was the only way to get some power, which was something only Brahmins had access to otherwise).  
+  
+#### Effects of Non-Cooperation on the economic front  
+- Foreign goods were boycotted
+- Liquor shops were picketed  
+- Foreign cloth was burnt in huge bonfires  
+- The import of foreign cloth halved between 1921 and 1922,   dropping from ₹102 crore to ₹57 crore.  
+- Many merchants and traders refused to trade foreign goods or to deal with foreign finances.  
+- People began discarding imported clothes and started using only Indian ones, which caused production fo Indian textiles to go up.  
+  
+
