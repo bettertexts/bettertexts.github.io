@@ -121,4 +121,22 @@ The Non-Cooperation Movement and the term Dwaraj meant different things for diff
 - Many merchants and traders refused to trade foreign goods or to deal with foreign finances.  
 - People began discarding imported clothes and started using only Indian ones, which caused production fo Indian textiles to go up.  
   
-
+#### Slowing down of the movement
+The movement gradually slowed down because of the following reasons:  
+- _Khadi_ clothes—as they were often handmade—coat more than the mass produced imported cloth and poor people couldn't afford to buy it.  
+- Since there were few Indian institutions back then that were as good as the British ones, teachers and student slowly trickled back to their old institutions.  
+- Lawyers too needed money to buy food, so they too returned to work in government courts.  
+  
+### 2.2 Rebellion in the countryside  
+#### Awadh  
+- In Awadh, peasants were lead by Baba Ramachandra, who was a _sanyasi_ who earlier worked as an indentured labourer in Fiji.  
+- The movement was against _talukdars_ and landlords who demanded very high cesses and taxes and forced the peasants to do _begar_ (unpaid labour) in landlords' lands.  
+- The peasants had no secure housing, and were regularly evicted so they couldn't acquire the rights to the  land.  
+- The peasant movement demanded, among other things, the following:  
+	- Reduction of taxes
+	- Abolition of _begar_
+	- Social boycott of oppresive landlords  
+- In various places, _nai-dhobi bandhs_ (babers-washermen strikes) were organised.  
+  
+- In June 1920, Jawaharlal Nehru had talks with villagersbof Awadh, trying to understand their grievances.  
+- The **_Oudh Kisan Sabha_** was set up, headed by Nehru, Baba Ramchandra, etc.  
