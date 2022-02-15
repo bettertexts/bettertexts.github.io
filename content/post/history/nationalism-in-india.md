@@ -103,7 +103,7 @@ Gandhiji proposed that the movement will unfold in the following stages:
 - Between September and December 1920, there was an intense tussle within the Congress.  
 - The Congress's **December 1920 Session in Nagpur** worked out a compromise and adopted the Non-Cooperation Movement.  
   
-## Differing Stands within the movement  
+## 2. Differing Stands within the movement  
 The Non-Cooperation Movement and the term Dwaraj meant different things for different people. A lot of social groups participated in this movement, though each had their own interpretations and aspirations.  
   
 ### 2.1 The Movement in the Towns  
@@ -140,3 +140,51 @@ The movement gradually slowed down because of the following reasons:
   
 - In June 1920, Jawaharlal Nehru had talks with villagersbof Awadh, trying to understand their grievances.  
 - The **_Oudh Kisan Sabha_** was set up, headed by Nehru, Baba Ramchandra, etc.  
+- The Congress intended to incorporate the Awadh peasant struggle into the wider movement.  
+- However the peasants' struggle took a different direction, which did not align with the Congress' goals. 
+- The movement took a violent turn and, in 1921, many _talukdars_ and merchants were attacked, bazaars were looted and hoarded grains were taken over.  
+- The local leaders told the peasants that Gandhiji had declared that they need not pay taxes and the land may be redistributed among the poor.  
+- Gandhiji had become a great figure in the minds of the people and his name was invoked to sanction every action and wish.  
+  
+#### The Gudem Rebellion and Alluri Sitaram Raju  
+- The tribal peasants interpreted _swaraj_ in yet another way.  
+- A militant guerilla movement spread in the early 1920s in the **Gudem Hills of Andhra Pradesh**.  
+- The colonial government had closed off large forest areas here and in many other places, preventing people from grazing their cattle or collecting fruits and fuelwood.  
+- The people who depended on this for their livelihood were understandably upset.  
+- To make matters worse, the government asked them to contribute _begar_ for road building.  
+- This enraged them and they revolted.  
+- The leader of this revolt was a rather interesting person known as **Alluri Sitaram Raju**.  
+- He claimed that he had mystical powers. It was said that he could maje correct astrological predictions and also heal people. Legend has it that he could survive even bullet shots.  
+- Raju twas inspired by Gandhiji and the Non-Cooperation Movement.  
+- He persuaded people to wear _Khadi_ and to give up drinking.  
+- But he strongly asserted that India can only be liberated through the use of force and that non-violence will not work.  
+- Raju and the Gudem rebels attacked police stations and killed British officials  and carried on guerilla warfare.  
+- Raju was arrested and executed in 1924.  
+  
+### 2.3 Swaraj in the Plantations of Assam  
+- As per the Inland Emigration Actnof 1859, plantation workers could not leave their plantations without permission, and were bery rarely given permission, if at all.  
+- After hearing about the Non-Cooperation Movement, thoudands of plantation workers defied their masters and left the plantations to head home.  
+- They firmly believed that Gandhi Raj was comung and everyine would be guven land in their villages.  
+- They, however, could not reach their villages, and were caught and brutally beaten up by the police.  
+  
+## 3. Towards Civil Disobedience  
+### 3.1 Sociopolitical and Economic decline
+#### Internal Debates within the Congress 
+- Mahatma Gandhi withdrawthe Non-Cooperation movement in Februaury 1922.  
+- He thought that the movement was turning too violent.  
+- He felt that _satyagrahis_ needed to be properly trained for mass struggle.  
+- The Congress leaders were getting tired of Gandhiji's mass struggles and they wanted to participate in the council elections which were set up by the Goverment of India Act (1919).  
+- The older leaders like C.R. Das and Motilal Nehru formed the Swaraj Party within the Congress as they wanted to return to council pokitics.  
+- According to them it was important to oppise British policies and to argue for reform within the councils.  
+- The younger leaders like Jawaharlal Nehru and Subhas Chadra Bose wanted more radical movements for independence. 
+
+
+#### The Great Depression  
+- Agricultural Prices began to fall from 1926 and completely collapsed after 1930.
+- Peasants found it hard to sell their harvest and pay their revenue.  
+- The countryside was in turn=moil by 1930.  
+  
+#### The Simon Commission  
+- A Statutory Commission was set up under Sir John Simon as a response to the nationalist movement.  
+- There was not a single Indian member in the commission.  
+- The commission was set up to look into the constitutional sytem of India and suggest changes.  
