@@ -182,7 +182,7 @@ The movement gradually slowed down because of the following reasons:
 #### The Great Depression  
 - Agricultural Prices began to fall from 1926 and completely collapsed after 1930.
 - Peasants found it hard to sell their harvest and pay their revenue.  
-- The countryside was in turn=moil by 1930.  
+- The countryside was in turmoil by 1930.  
   
 #### The Simon Commission  
 - A Statutory Commission was set up under Sir John Simon as a response to the nationalist movement.  
